@@ -406,13 +406,14 @@ nav .fa-solid{
 }
 
 
-@media only screen and (max-width:600px){
+@media only screen and (max-width:500px){
     #header{
         background-image: url(images/dark-laptop-windows-11-logo-1litx68ygci5jaan.jpg);
+        width: 500px;
 
     }
     .headertext{
-        margin-top: 100%;
+        margin-top: 10px;
         font-size: 16px;
     }
     .headertext h1{
